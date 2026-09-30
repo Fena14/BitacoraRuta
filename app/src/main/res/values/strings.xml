@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bitacora Ruta</string>
+    <string name="titulo_pantalla">Bitacora de Ruta</string>
+    <string name="instruccion_pantalla">Escribe un lugar o actividad. En los siguientes modulos esta pantalla se conectara con otra Activity, mapas, sensores y ubicacion.</string>
+    <string name="hint_lugar">Ejemplo: Plaza principal</string>
+    <string name="btn_registrar">Registrar lugar</string>
+    <string name="btn_detalle">Ver detalle</string>
+    <string name="estado_inicial">Estado: esperando accion.</string>
+    <string name="estado_escribe_lugar">Estado: escribe un lugar o actividad.</string>
+    <string name="estado_lugar_registrado">Estado: lugar registrado: %1$s</string>
+</resources>
